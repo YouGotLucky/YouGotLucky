@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/discord/discord.svg" alt="Discord Icon">
+    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/discord/discord.svg" alt="Discord Icon" width="25" height="25">
   </a>
 </p>
 <!--
