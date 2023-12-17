@@ -3,6 +3,8 @@
 ## Statistics
 [![Repos Badge](https://badges.pufler.dev/repos/YouGotLucky)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/YouGotLucky)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/YouGotLucky)](https://badges.pufler.dev)
+
 <!--
 **YouGotLucky/YouGotLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
