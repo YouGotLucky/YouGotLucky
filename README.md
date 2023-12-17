@@ -1,4 +1,4 @@
-### Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
+# Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
 
 ## 📊 Statistics
 [![Repos Badge](https://badges.pufler.dev/repos/YouGotLucky)](https://badges.pufler.dev)
