@@ -13,8 +13,8 @@
 ## ✉️ Find me here
 
 <p align="center">
-  <a href="mailto:help@brickimo.com">
-    <img src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" alt="Gmail Logo">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/discord/discord.svg" alt="Discord Icon">
   </a>
 </p>
 <!--
