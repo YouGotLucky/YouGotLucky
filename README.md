@@ -1,4 +1,5 @@
 # Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
+<img src="https://i.redd.it/k20ywqdlrtqb1.jpg">
 ![](https://visitor-badge.laobi.icu/badge?page_id=YouGotLucky.YouGotLucky) [![Github](https://img.shields.io/github/followers/YouGotLucky?label=Followers&logo=Github)](https://github.com/YouGotLucky)
 ## 📊 Statistics
 
