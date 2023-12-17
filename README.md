@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
-![Visitor Count](https://profile-counter.glitch.me/YouGotLucky/count.svg)
+
+## Statistics
+[![Visits Badge](https://badges.pufler.dev/visits/YouGotLucky/)](https://badges.pufler.dev)
 <!--
 **YouGotLucky/YouGotLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
