@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
+![](https://visitor-badge.laobi.icu/badge?page_id=YouGotLucky.YouGotLucky)
 
 <!--
 **YouGotLucky/YouGotLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
