@@ -1,5 +1,5 @@
 # Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
-
+![](https://visitor-badge.laobi.icu/badge?page_id=YouGotLucky.YouGotLucky) [![Github](https://img.shields.io/github/followers/YouGotLucky?label=Followers&logo=Github)](https://github.com/YouGotLucky)
 ## 📊 Statistics
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YouGotLucky&theme=tokyonight)
