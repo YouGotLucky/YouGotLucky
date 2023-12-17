@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm YouGotLucky A.K.A Hurriane or Corey!
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YouGotLucky" alt="visitor badge"/>
+![Visitor Count](https://profile-counter.glitch.me/YouGotLucky/count.svg)
 <!--
 **YouGotLucky/YouGotLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
